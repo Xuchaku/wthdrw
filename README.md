@@ -1,4 +1,4 @@
-# Withdraw (Frontend test) — Next.js App Router + TypeScript + FSD
+# Withdraw
 
 Реализация тестового задания: страница **Withdraw** с устойчивым UI и интеграцией API:
 
